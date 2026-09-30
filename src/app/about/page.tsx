@@ -24,7 +24,7 @@ export default function About() {
           className="reveal"
           width={1200}
           height={800}
-          unoptimized
+          sizes="100vw"
           style={{ width: '100%', height: 'auto', objectFit: 'cover' }}
         />
       </section>

@@ -18,32 +18,35 @@ const PATH_TITLES: Record<string, string> = {
 export default function Dock() {
   const [isLight, setIsLight] = useState(false);
   const pathname = usePathname();
-  const currentTitle = PATH_TITLES[pathname] || 'HYLA';
+  const currentTitle = PATH_TITLES[pathname.replace(/\/$/, '') || '/'] || 'HYLA';
 
   useEffect(() => {
     let toneTick = false;
+    let frame = 0;
     const updateDock = () => {
       toneTick = false;
-      const toneSections = Array.from(document.querySelectorAll('[data-tone]'));
       const y = window.innerHeight - 50;
-      const section = toneSections.find((el) => {
-        const r = el.getBoundingClientRect();
-        return r.top <= y && r.bottom >= y;
-      }) as HTMLElement | undefined;
+      const section = document.elementFromPoint(10, y)?.closest<HTMLElement>('[data-tone]');
       
       setIsLight(section?.dataset.tone === 'dark');
     };
 
-    window.addEventListener('scroll', () => {
+    const onScroll = () => {
       if (!toneTick) {
         toneTick = true;
-        requestAnimationFrame(updateDock);
+        frame = requestAnimationFrame(updateDock);
       }
-    }, { passive: true });
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
     
-    // Slight delay to ensure elements are mounted
-    setTimeout(updateDock, 100);
-  }, [pathname]); // also re-run when route changes
+    updateDock();
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      window.removeEventListener('resize', onScroll);
+      cancelAnimationFrame(frame);
+    };
+  }, [pathname]);
 
   const openMenu = () => {
     document.dispatchEvent(new CustomEvent('open-menu'));

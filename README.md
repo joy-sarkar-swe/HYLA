@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+HYLA Architects website concept, built with Next.js.
+
+Portfolio images use `OptimizedImage` to serve responsive sizes while retaining their original aspect ratios. The `predev` and `prebuild` scripts update `src/components/image-dimensions.json` from files in `public/assets`; run `node scripts/generate-image-metadata.mjs` after adding images if you need to update it separately.
+
+Project and press detail records live in `src/data/projects.json` and `src/data/press.json`. The `/projects/[slug]` and `/press/[slug]` routes read those records and render on request.
 
 ## Getting Started
 
@@ -18,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The site fonts are self hosted through `next/font`.
 
 ## Learn More
 
