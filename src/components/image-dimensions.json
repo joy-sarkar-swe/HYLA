@@ -1,0 +1,1458 @@
+{
+  "/assets/outside.jpg": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/13-lorong-24a-geylang-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/13-lorong-24a-geylang-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/13-lorong-24a-geylang-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/19-lorong-24a-geylang-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/19-lorong-24a-geylang-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/19-lorong-24a-geylang-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/28-bowment-gardens-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/28-bowment-gardens-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/28-bowment-gardens-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/28-crescent-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/28-crescent-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/28-crescent-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/28-faber-avenue-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/28-faber-avenue-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/28-faber-avenue-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/30-bencoolen-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/30-bencoolen-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/30-bencoolen-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/48-princess-of-wales-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/48-princess-of-wales-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/48-princess-of-wales-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/56-carisbrooke-grove-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/56-carisbrooke-grove-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/56-carisbrooke-grove-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/65-greenfield-drive-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/65-greenfield-drive-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/65-greenfield-drive-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/axa-university-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/axa-university-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/axa-university-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/belimbing-avenue-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/belimbing-avenue-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/belimbing-avenue-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/beton-intime-intimate-concrete-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/beton-intime-intimate-concrete-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/beton-intime-intimate-concrete-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/binchang-rise-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/binchang-rise-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/binchang-rise-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/black-white-classic-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/black-white-classic-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/black-white-classic-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/bowmont-gardens-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/bowmont-gardens-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/bowmont-gardens-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/bukit-tunggal-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/bukit-tunggal-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/bukit-tunggal-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/capricorn-drive-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/capricorn-drive-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/capricorn-drive-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/cascading-courts-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/cascading-courts-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/cascading-courts-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/catch-breeze-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/catch-breeze-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/catch-breeze-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/cloister-house-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/cloister-house-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/cloister-house-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/concrete-biophyllia-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/concrete-biophyllia-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/concrete-biophyllia-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/concrete-light-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/concrete-light-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/concrete-light-hero.webp": [
+    1600,
+    1120
+  ],
+  "/assets/portfolio/concrete-yin-yang-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/concrete-yin-yang-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/concrete-yin-yang-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/crescent-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/crescent-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/crescent-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/crowhurst-drive-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/crowhurst-drive-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/crowhurst-drive-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/custom-shades-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/custom-shades-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/custom-shades-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/daffodil-drive-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/daffodil-drive-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/daffodil-drive-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/decidedly-different-1.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/decidedly-different-2.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/decidedly-different-hero.webp": [
+    1400,
+    900
+  ],
+  "/assets/portfolio/fade-green-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/fade-green-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/fade-green-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/gabled-gardens-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/gabled-gardens-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/gabled-gardens-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/gardens-sinai-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/gardens-sinai-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/gardens-sinai-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/green-revelation-1.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/green-revelation-2.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/green-revelation-hero.webp": [
+    1400,
+    900
+  ],
+  "/assets/portfolio/greenbank-park-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/greenbank-park-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/greenbank-park-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/greenleaf-rise-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/greenleaf-rise-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/greenleaf-rise-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/grove-drive-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/grove-drive-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/grove-drive-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/hanging-gardens-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/hanging-gardens-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/hanging-gardens-hero.webp": [
+    1307,
+    980
+  ],
+  "/assets/portfolio/harmonious-timbre-1.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/harmonious-timbre-2.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/harmonious-timbre-hero.webp": [
+    1400,
+    900
+  ],
+  "/assets/portfolio/heaven-earth-house-1.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/heaven-earth-house-2.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/heaven-earth-house-hero.webp": [
+    1400,
+    900
+  ],
+  "/assets/portfolio/higher-plane-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/higher-plane-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/higher-plane-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/honda-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/honda-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/honda-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/inner-haven-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/inner-haven-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/inner-haven-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/intermediate-stories-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/intermediate-stories-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/intermediate-stories-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/interstitial-terraces-1.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/interstitial-terraces-2.webp": [
+    1200,
+    771
+  ],
+  "/assets/portfolio/interstitial-terraces-hero.webp": [
+    1400,
+    900
+  ],
+  "/assets/portfolio/intervening-light-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/intervening-light-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/intervening-light-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/intricate-veil-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/intricate-veil-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/intricate-veil-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/invensys-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/invensys-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/invensys-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lines-curves-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lines-curves-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lines-curves-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lines-light-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lines-light-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lines-light-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lorong-g-telok-kurau-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lorong-g-telok-kurau-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lorong-g-telok-kurau-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lorong-j-telok-kurau-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lorong-j-telok-kurau-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lorong-j-telok-kurau-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lucky-heights-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lucky-heights-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lucky-heights-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lucky-view-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lucky-view-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lucky-view-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/lutheran-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lutheran-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/lutheran-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/microsoft-office-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/microsoft-office-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/microsoft-office-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/multi-lineal-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/multi-lineal-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/multi-lineal-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/namly-drive-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/namly-drive-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/namly-drive-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/nassim-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/nassim-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/nassim-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/natural-progression-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/natural-progression-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/natural-progression-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/nature-enters-19-jalan-angin-laut-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/nature-enters-19-jalan-angin-laut-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/nature-enters-19-jalan-angin-laut-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/openly-screened-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/openly-screened-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/openly-screened-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/oriole-crescent-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/oriole-crescent-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/oriole-crescent-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/outside-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/outside-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/outside-box-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/outside-box-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/outside-box-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/outside-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/pool-house-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/pool-house-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/pool-house-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/press-area-toh-crescent-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-capricorn-drive-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-contemporary-house-lines-light-house-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-cubes-19-lorong-24a-geylang-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-cubes-belimbing-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-cubes-cove-way-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-cubes-enduring-calm-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-cubes-faber-terrace-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-cubes-hyla-hero.webp": [
+    500,
+    501
+  ],
+  "/assets/portfolio/press-cubes-room-without-roof-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-d-belimbing-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-d-toh-crescent-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-19-lorong-24a-geylang-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-asia-content-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-capricorn-drive-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-greenbank-park-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-hillview-crescent-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-honda-showroom-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-lucky-view-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-nursing-home-senja-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-oriole-crescent-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-pacific-healthcare-specialist-centre-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-da-surprising-seclusion-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-data-sphere-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-deco-faber-terrace-hero.webp": [
+    499,
+    500
+  ],
+  "/assets/portfolio/press-futurarc-19-lorong-24a-geylang-hero.webp": [
+    1600,
+    1600
+  ],
+  "/assets/portfolio/press-futurarc-belimbing-avenue-hero.webp": [
+    1600,
+    1600
+  ],
+  "/assets/portfolio/press-grove-drive-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-habitus-room-without-roof-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-habitus-surprising-seclusion-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-home-decor-upper-east-coast-road-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-home-design-everton-road-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-id-36-everton-road-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-id-c-greenbank-park-hero.webp": [
+    500,
+    501
+  ],
+  "/assets/portfolio/press-inheritage-taiwan-belimbing-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-international-new-york-times-19-lorong-24a-geylang-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-interni-decor-belimbing-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-invensys-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-jalan-sedap-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-lasia-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-lines-light-faber-terrace-hero.webp": [
+    654,
+    636
+  ],
+  "/assets/portfolio/press-living-design-greenbank-park-hero.webp": [
+    496,
+    514
+  ],
+  "/assets/portfolio/press-lucky-heights-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-mini-building-intermediate-stories-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-multi-family-housing-toh-crescent-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-room-jalan-angin-laut-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-room-thai-space-walls-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-shelford-condominium-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-architect-13-lorong-24a-geylang-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-architect-19-lorong-24a-geylang-2-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-architect-19-lorong-24a-geylang-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-architect-faber-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-architect-greenfield-drive-hero.webp": [
+    489,
+    500
+  ],
+  "/assets/portfolio/press-singapore-architect-jalan-angin-laut-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-residence-belimbing-avenue-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-singapore-residence-jalan-angin-laut-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-starhub-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-trends-crescent-road-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-trends-greenbank-park-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-trends-grove-drive-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-trends-lutheran-road-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-trends-new-zealand-lucky-heights-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-trends-windsor-park-road-hero.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/press-wooden-building-creative-wooden-structure-hero.webp": [
+    325,
+    326
+  ],
+  "/assets/portfolio/private-retreat-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/private-retreat-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/private-retreat-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/privately-public-1.webp": [
+    1200,
+    902
+  ],
+  "/assets/portfolio/privately-public-2.webp": [
+    1200,
+    799
+  ],
+  "/assets/portfolio/privately-public-hero.webp": [
+    1400,
+    1052
+  ],
+  "/assets/portfolio/re-treat-house-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/re-treat-house-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/re-treat-house-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/room-without-roof-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/room-without-roof-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/room-without-roof-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/sanctuary-shell-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sanctuary-shell-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sanctuary-shell-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/sculpted-space-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sculpted-space-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sculpted-space-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/senja-nursing-home-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/senja-nursing-home-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/senja-nursing-home-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/sentosa-cove-way-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sentosa-cove-way-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sentosa-cove-way-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/shophouseredux-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/shophouseredux-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/shophouseredux-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/siglap-view-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/siglap-view-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/siglap-view-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/space-walls-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/space-walls-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/space-walls-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/starhub-centre-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/starhub-centre-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/starhub-centre-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/starhub-shop-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/starhub-shop-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/starhub-shop-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/sun-microsystems-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sun-microsystems-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/sun-microsystems-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/surprising-seclusion-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/surprising-seclusion-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/surprising-seclusion-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/tale-two-courts-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/tale-two-courts-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/tale-two-courts-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/team-axel.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-doreen.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-eugene.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-han.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-harin.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-hong-yi.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-ice.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-jessalyn.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-juperi.webp": [
+    800,
+    800
+  ],
+  "/assets/portfolio/team-ka-shing.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-mek.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-natcha.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-nicha.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-nicholas.webp": [
+    800,
+    800
+  ],
+  "/assets/portfolio/team-oat.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-prim.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-ronnie.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-sophie.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-tanaporn.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-taw.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-thomas.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/team-veronica.webp": [
+    500,
+    500
+  ],
+  "/assets/portfolio/thomson-ridge-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/thomson-ridge-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/thomson-ridge-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/upper-east-coast-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/upper-east-coast-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/upper-east-coast-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/us-2-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/us-2-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/us-2-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/verdant-verandah-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/verdant-verandah-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/verdant-verandah-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/vertical-court-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/vertical-court-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/vertical-court-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/vertical-oasis-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/vertical-oasis-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/vertical-oasis-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/viewing-back-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/viewing-back-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/viewing-back-hero.webp": [
+    1600,
+    1120
+  ],
+  "/assets/portfolio/villa-urbano-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/villa-urbano-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/villa-urbano-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/viridis-terra-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/viridis-terra-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/viridis-terra-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/windsor-park-road-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/windsor-park-road-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/windsor-park-road-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/portfolio/zen-layers-1.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/zen-layers-2.webp": [
+    1200,
+    840
+  ],
+  "/assets/portfolio/zen-layers-hero.webp": [
+    1400,
+    980
+  ],
+  "/assets/sanctuary.jpg": [
+    1400,
+    980
+  ],
+  "/assets/villa-court.jpg": [
+    1400,
+    980
+  ],
+  "/assets/villa-detail.jpg": [
+    1400,
+    980
+  ],
+  "/assets/villa-hero.jpg": [
+    1400,
+    980
+  ]
+}

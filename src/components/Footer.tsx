@@ -1,6 +1,5 @@
-'use client';
-
 import Link from 'next/link';
+import BackToTop from './BackToTop';
 
 export default function Footer() {
   return (
@@ -38,9 +37,7 @@ export default function Footer() {
           .<br />Not commissioned by or affiliated with HYLA Architects.
         </p>
         <Link href="/concept/">About this concept & credits</Link>
-        <button data-top onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-          Back to top
-        </button>
+        <BackToTop />
       </div>
       <div className="footer-big" aria-hidden="true">HYLA</div>
     </footer>
