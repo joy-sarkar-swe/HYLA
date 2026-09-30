@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import Image from 'next/image';
 
 export default function Navigation() {
@@ -80,7 +80,7 @@ export default function Navigation() {
             alt="Villa Urbano courtyard"
             width={320}
             height={220}
-            unoptimized
+            sizes="320px"
           />
           <p className="micro">Design / Detail / Deliver</p>
           <a href="mailto:admin@hyla.com.sg">admin@hyla.com.sg</a>

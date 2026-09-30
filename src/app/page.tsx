@@ -10,8 +10,8 @@ export default function Home() {
             src="/assets/villa-detail.jpg"
             alt="Villa Urbano living space by HYLA Architects"
             fill
-            priority
-            unoptimized
+            preload
+            sizes="100vw"
           />
         </div>
         <div className="hero-shade"></div>
@@ -61,7 +61,7 @@ export default function Home() {
             src="/assets/portfolio/outside-hero.webp"
             alt="Outside In"
             fill
-            unoptimized
+            sizes="100vw"
           />
         </div>
         <div className="stage-shade"></div>
@@ -81,7 +81,7 @@ export default function Home() {
             src="/assets/portfolio/sanctuary-shell-hero.webp"
             alt="Sanctuary Shell"
             fill
-            unoptimized
+            sizes="100vw"
           />
         </div>
         <div className="stage-shade"></div>
@@ -101,7 +101,7 @@ export default function Home() {
             src="/assets/portfolio/30-bencoolen-hero.webp"
             alt="30 Bencoolen"
             fill
-            unoptimized
+            sizes="100vw"
           />
         </div>
         <div className="stage-shade"></div>
